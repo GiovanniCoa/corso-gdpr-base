@@ -1,0 +1,13 @@
+# Cloud e GDPR
+
+Con l'avvento della digitalizzazione, sempre più aziende stanno optando per l'utilizzo di servizi cloud per archiviare i propri dati e gestire le proprie attività. Tuttavia, l'adozione di queste soluzioni comporta importanti implicazioni in termini di compliance alla normativa europea in materia di protezione dei dati personali, il General Data Protection Regulation (GDPR).
+
+Il GDPR impone rigide regole per la gestione e la protezione dei dati personali degli individui all'interno dell'Unione Europea, con l'obiettivo di garantire un elevato livello di protezione della privacy e dei diritti fondamentali delle persone. Le aziende che utilizzano servizi cloud devono pertanto assicurarsi che i propri fornitori rispettino le disposizioni del GDPR e adottino le misure necessarie per garantire la sicurezza e la riservatezza dei dati.
+
+In particolare, le aziende sono tenute a valutare attentamente i rischi connessi all'uso di servizi cloud, in modo da garantire che i dati personali siano trattati in conformità alle disposizioni del GDPR. Questo significa, ad esempio, assicurarsi che il fornitore del servizio cloud adotti adeguate misure di sicurezza per proteggere i dati da accessi non autorizzati o da perdite accidentali.
+
+Inoltre, le aziende devono garantire che i dati personali siano trattati in modo trasparente e che gli individui abbiano pieno controllo sulle proprie informazioni personali. Ciò significa che le aziende devono informare gli utenti in modo chiaro e completo su come vengono utilizzati i loro dati e fornire loro il diritto di accedere, correggere o cancellare le proprie informazioni.
+
+Infine, le aziende devono essere in grado di dimostrare la conformità al GDPR attraverso la tenuta di documentazione dettagliata sul trattamento dei dati personali e sull'adozione di misure di sicurezza adeguate. In caso di violazione delle disposizioni del GDPR, le aziende rischiano sanzioni amministrative fino al 4% del loro fatturato annuo globale.
+
+In conclusione, l'utilizzo di servizi cloud offre indubbi vantaggi in termini di flessibilità e scalabilità, ma comporta anche importanti responsabilità in termini di protezione dei dati personali. Le aziende devono pertanto essere consapevoli delle implicazioni del GDPR nell'uso di servizi cloud e adottare le misure necessarie per garantire la conformità alla normativa europea in materia di protezione dei dati personali.
